@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "accessibility-to-do-list",
+    "slug": "accessibility-to-do-list",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
