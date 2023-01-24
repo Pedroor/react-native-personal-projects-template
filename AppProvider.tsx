@@ -1,6 +1,6 @@
-import RootNavigator from "@/Navigators/RootNavigator";
-import React from "react";
-import { View } from "react-native";
+import RootNavigator from '@/Navigators/RootNavigator';
+import React from 'react';
+import {View} from 'react-native';
 
 // import { Container } from './styles';
 
